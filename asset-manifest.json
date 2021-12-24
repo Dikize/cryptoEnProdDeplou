@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/static/js/main.91c97a19.chunk.js",
+    "main.js.map": "/static/js/main.91c97a19.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67c4d632.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67c4d632.js.map",
+    "static/js/2.4ef4c2a6.chunk.js": "/static/js/2.4ef4c2a6.chunk.js",
+    "static/js/2.4ef4c2a6.chunk.js.map": "/static/js/2.4ef4c2a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.4ef4c2a6.chunk.js.LICENSE.txt": "/static/js/2.4ef4c2a6.chunk.js.LICENSE.txt",
+    "static/media/avatar.f235a960.png": "/static/media/avatar.f235a960.png",
+    "static/media/bchain.900e0d57.png": "/static/media/bchain.900e0d57.png",
+    "static/media/beautiful.189d934d.jpg": "/static/media/beautiful.189d934d.jpg",
+    "static/media/beautiful1.5e63084c.jpg": "/static/media/beautiful1.5e63084c.jpg",
+    "static/media/beautiful2.2ca294d4.jpg": "/static/media/beautiful2.2ca294d4.jpg",
+    "static/media/bitcoin.46e8c106.jpg": "/static/media/bitcoin.46e8c106.jpg",
+    "static/media/bitcoin2.b8ba9088.jpg": "/static/media/bitcoin2.b8ba9088.jpg",
+    "static/media/bitcoin3.50028aaf.jpg": "/static/media/bitcoin3.50028aaf.jpg",
+    "static/media/circles.be1ff3c5.svg": "/static/media/circles.be1ff3c5.svg",
+    "static/media/computer.6a406e2e.jpg": "/static/media/computer.6a406e2e.jpg",
+    "static/media/crypto.d3d2842b.jpg": "/static/media/crypto.d3d2842b.jpg",
+    "static/media/heart.1b53b8d5.svg": "/static/media/heart.1b53b8d5.svg",
+    "static/media/map.3a57e88c.png": "/static/media/map.3a57e88c.png",
+    "static/media/marketing.976178f9.mp4": "/static/media/marketing.976178f9.mp4",
+    "static/media/morocco.6f48c7e6.jpg": "/static/media/morocco.6f48c7e6.jpg",
+    "static/media/morocco2.5fa5ba4d.jpg": "/static/media/morocco2.5fa5ba4d.jpg",
+    "static/media/niceWomen.cd9977bf.jpg": "/static/media/niceWomen.cd9977bf.jpg",
+    "static/media/person3.53878b11.jpg": "/static/media/person3.53878b11.jpg",
+    "static/media/profile.d2819ddd.png": "/static/media/profile.d2819ddd.png",
+    "static/media/time.16703388.svg": "/static/media/time.16703388.svg",
+    "static/media/tribuMagnifique.5753a53f.jpg": "/static/media/tribuMagnifique.5753a53f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67c4d632.js",
+    "static/js/2.4ef4c2a6.chunk.js",
+    "static/js/main.91c97a19.chunk.js"
+  ]
+}
